@@ -1,0 +1,13 @@
+
+.impair {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+
+}
+
+.pair {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+}

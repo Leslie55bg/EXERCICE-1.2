@@ -1,0 +1,24 @@
+body {
+  background-image: url("../img/background1.png");
+  background-attachment: fixed;
+  background-repeat: repeat;
+}
+
+.menu {
+  background-color:rgba(255, 255, 255, 0.1);
+  /*background-position:center center;*/
+  position: absolute;
+  height: auto; /*=100%*/
+  width: auto;  /*=100%*/
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-right: 30%;
+}
